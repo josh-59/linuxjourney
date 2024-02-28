@@ -1,28 +1,26 @@
-# Choosing a Linux Distribution
+Your First Linux Distro
+=======================
 
-## Lesson Content
+It's Up To You
+--------------
 
-In the previous lesson, we learned about the Linux kernel which powers millions of devices a day. One thing before we move forward, the term Linux is actually quite a misnomer, since it actually refers to the Linux kernel. However, many distributions use the Linux kernel so therefore are commonly known as Linux operating systems. 
+Where do we begin?  We begin wherever you want, but I might suggest Debian-based distributions, to start.  Fortunately, there are many.  Debian, Ubuntu, Linux Mint, Elementary OS (if you're into Mac's), just to name some of the popular ones.  
 
-A Linux system is divided into three main parts:
+Don't get too hung up on software freedom just yet-- there's plenty of time for that down the road.  For now, figure out what works for you-- and if that means proprietary drivers, so be it (you can always upgrade to an AMD card down the road...).
 
-<ul>
-<li>Hardware - This includes all the hardware that your system runs on as well as memory, CPU, disks, etc.</li>
-<li>Linux Kernel - As we discussed above, the kernel is the core of the operating system. It manages the hardware and tells it how to interact with the system.</li>
-<li>User Space - This is where users like yourself will be directly interacting with the system.</li>
-</ul>
+`apt`
+-----
 
-So the first step we’ll need to take is to install Linux on your machine. You have many options to choose from and this course will help inform you and get you started on choosing a Linux distribution. 
-
-There are many Linux distributions to choose from, we’ll just go over the most popular options. 
-
+The Debian package manager is `apt`. Any Debian-based distro will also use `apt` to handle packages.  For the remainder of this section, we will assume you're using some Debian-base distron; later on, we'll specify other distributions...  
 
 ## Exercise
 
-No exercises for this lesson.
+This field intentially left blank.
 
 ## Quiz Question
 
-No questions, skip ahead!
+What command gives, temporarily, super-user priveledges?
 
 ## Quiz Answer
+
+`sudo`

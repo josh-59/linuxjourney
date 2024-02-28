@@ -1,4 +1,4 @@
-# History
+# GNU/Linux
 
 ## Lesson Content
 
@@ -24,8 +24,8 @@ Additional reading:
 
 ## Quiz Question
 
-Who developed the Linux kernel? 
+What does GNU stand for?
 
 ## Quiz Answer
 
-Linus Torvalds
+Freedom!  

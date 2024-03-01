@@ -9,7 +9,7 @@ To see what kernel version you have on your system, use the following command:
 <pre>$ uname -r
 3.19.0-43-generic</pre>
 
-The uname command prints system information, the -r command will print out all of the kernel release version.
+The uname command prints system information, and the -r option tells it to print out the kernel release version.
 
 You can install the Linux kernel in different ways, you can download the source package and compile from source or you can install it using package management tools.
 

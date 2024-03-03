@@ -4,11 +4,9 @@
 
 * Getting Started - What is Linux? Get started with choosing a distribution and installation.
 
-* Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
+* Command Line 1 - The fundamentals of the command line, navigating files, directories and more.
 
 * Text-Fu - Learn basic text manipulation and navigation.
-
-* Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
 
 * User Management - Learn about user roles and management.
 
@@ -22,11 +20,19 @@
 
 * Devices - Learn about Linux devices and how they interact with the kernel and user space.
 
+* Command Line 2 - A few more powerful commands are introduced; shell theory is explored a little. 
+
 * The Filesystem - Learn about the Linux filesystem, the different types of filesystems, partitioning and more.
 
-* Boot the System - Learn about the stages of the Linux boot process.
+* Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
 
 * Kernel - The most important part of the Linux system, learn about how it works and how to configure it.
+
+## Elder Grasshoper
+
+* Command Line 3 - 
+
+* The Boot Process - Learn about the stages of the Linux boot process.
 
 * Init - Learn about the different init systems, SysV, Upstart and systemd.
 
